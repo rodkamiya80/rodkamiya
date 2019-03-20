@@ -1,9 +1,3 @@
 Meu segundo git
+Alterado e atualizado 20/03/19 14:11
 
-Alteracao do readme para melhor descricao
-
-Agora certo
-
-Linha legal 22:39
-
-Linha final 22:41
